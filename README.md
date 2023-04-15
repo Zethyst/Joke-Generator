@@ -12,4 +12,4 @@
           <li>Simple and intuitive user interface.</li><br>
         </ul>
 <h2>📌 Screenshots</h2>
-<div><img src="ss.png"></div>
+<div><img src="screenshot.png"></div>
