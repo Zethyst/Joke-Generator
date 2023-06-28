@@ -14,10 +14,13 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📌 Key Features:
+<div>
         <ul type="circle">
           <li>Generates random jokes based on categories such as puns, one-liners, and dad jokes.</li><br>
           <li>Users can select their preferred category of jokes.</li><br>
           <li>Simple and intuitive user interface.</li><br>
         </ul>
+</div>
+        
 ## 📌 Screenshots:
 <div><img src="screenshot.png"></div>
